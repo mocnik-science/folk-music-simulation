@@ -2,7 +2,7 @@
 
 This software is a first try to simulate the dissemination of tunes in a traditional folk music context.  For more information, please refer to:
 
-* F.-B. Mocnik: [**Tradition as a spatiotemporal process – the case of Swedish folk music.**](#) Proceedings of the 21st AGILE Conference on Geographic Information Science, 2018, to appear
+* FB Mocnik: [**Tradition as a spatiotemporal process – the case of Swedish folk music.**](#) Proceedings of the 21st AGILE Conference on Geographic Information Science, 2018, to appear
 
 # Usage
 
